@@ -11,5 +11,3 @@ readline.question('Informe sua idade: ', input =>{
     leituraDeCampo = input;
     console.log(`o usuario digitou: ${leituraDeCampo}`);
 });
-
-
